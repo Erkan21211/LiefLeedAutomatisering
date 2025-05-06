@@ -1,0 +1,43 @@
+## Ignore Visual Studio files
+.vs/
+*.user
+*.suo
+
+## Build results
+bin/
+obj/
+*.dll
+*.exe
+
+## ASP.NET temp files
+_Temporary ASP.NET Files/
+*.log
+
+## NuGet packages
+*.nupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+
+## Web publish
+publish/
+*.pubxml
+*.publishproj
+
+## Others
+*.pdb
+*.cache
+*.dbmdl
+*.bak
+*.orig
+*.tmp
+
+## Test results
+TestResults/
+*.trx
+*.coverage
+
+## User-specific
+*.userprefs
+*.userosscache
+*.sln.docstates
